@@ -7,6 +7,6 @@
 > - Add a Todo Item
 > - Edit a Todo Item
 > - Delete Todos
-><br>
+<br>
  
-> *TodoList App* is going to help you!  **Try It!** 📕
+ *TodoList App* is going to help you!  **Try It!** 📕
